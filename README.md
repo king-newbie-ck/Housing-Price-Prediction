@@ -60,16 +60,11 @@ House_Price_Prediction.ipynb
 house_prices.csv
 
 ## Charts Included in this Project
-1. Price Distribution Chart
-   Image = chart1_price_distribution.png
-2. Price By City
-   Image - chart2_price_by_city.png
-3. Area vs Price
-   Image = chart3_area_vs_price.png
-4. Correlation
-   Image - chart4_clustermap.png
-5. Average Price by Furnishing
-   Inage - chart5_avg_price_by_furnishing.png
+1. Price Distribution Chart : (chart1_price_distribution.png)
+2. Price By City : (chart2_price_by_city.png)
+3. Area vs Price : (chart3_area_vs_price.png)
+4. Correlation : (chart4_clustermap.png)
+5. Average Price by Furnishing : (chart5_avg_price_by_furnishing.png)
    
 
 ---
