@@ -5,6 +5,9 @@ A comprehensive end-to-end data science project focused on transforming raw, mes
 ## 📌 Project Overview
 Real-world data is rarely clean. This project works with an intentionally flawed dataset containing missing values, duplicates, outliers, and messy text entries to simulate an authentic data engineering and analytics workflow.
 
+Image - (Charts.png)
+
+
 ### The Dataset (`house_prices.csv`)
 * **Size:** 532 rows across 6 Indian cities.
 * **Features:** Area, Bedrooms, Bathrooms, Age, City, Furnishing, Parking, MainRoad, Price.
